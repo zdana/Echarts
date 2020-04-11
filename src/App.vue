@@ -8,7 +8,7 @@
               <el-row>
                 <el-col :span="14">
                   <div>
-                    <h1>产线机台现场监控</h1>
+                    <h1>Element-ui+echarts</h1>
                   </div>
                 </el-col>
                 <el-col :span="10">
